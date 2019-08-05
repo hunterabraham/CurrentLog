@@ -1,2 +1,2 @@
 # CurrentLog
-Uses Pi-Plates to log currents coming from power supply
+Uses Pi-Plates to log voltages coming from power supply
